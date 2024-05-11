@@ -19,7 +19,7 @@
     "start-mock": "fiori run --open 'test/flpSandboxMockServer.html#masterDetail-display'"
   },
   "devDependencies": {
-    "@sap/ux-specification": "^1.84.87",
+    "@sap/ux-specification": "latest",
     "@sap/ux-ui5-tooling": "1",
     "@ui5/cli": "^3.10.0",
     "@ui5/fs": "^2.0.6",
