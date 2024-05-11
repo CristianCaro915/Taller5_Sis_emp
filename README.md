@@ -36,6 +36,11 @@ SAP Fiori elements application for managing products
 ```
     npm run start-mock
 ```
+### ERROR
+
+Here something happened. Could not solve it. 
+
+![image](https://github.com/CristianCaro915/Taller5_Sis_emp/assets/69738827/04c28365-43e4-4006-8409-281ee5d0cbab)
 
 #### Pre-requisites:
 
